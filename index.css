@@ -1,0 +1,9 @@
+#wave1{
+	display: flex;
+
+	width: 90vw;
+	height: 90vh;
+    overflow: hidden;
+    resize: both;
+    border-radius: 1rem;
+}
